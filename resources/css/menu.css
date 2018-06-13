@@ -1,0 +1,57 @@
+.rodape {
+  color: white; 
+  text-align: center;
+}
+
+.menu {
+	margin:0 auto;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+	overflow: hidden;
+	width: 100%;
+	position: absolute;
+	
+	
+	
+}
+
+.item_menu {
+   float: left;
+   width: 150px;
+   min-width: 150px;
+   height: 150px;
+   margin:5px;
+   background-color: transparent;
+	
+}
+
+.item_menu p {
+   background-color: #999;
+}
+
+.tela_login {
+	width:360px;
+	height:220px;
+	top:0;
+	left:0;
+	right: 0;
+	bottom:0;
+	margin: auto;
+	position: absolute;
+
+	padding: 5px;		
+	font-size: 25px;
+	box-shadow: 1px 1px 5px rgba(0,0,0,.4);
+	color: #666;
+}
+
+.botaoAutenticar {
+	width: 50%;	
+	position: absolute;
+	left: 0;
+	right: 0;
+	margin: auto;
+}
+
